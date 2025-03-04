@@ -8,6 +8,6 @@ int main()
     return 0;
 }
 
-void printName(){
-    cout<<"Daniel Plutchak"<<endl;
+void printName(int year){
+    cout<<"Daniel Plutchak ("<<year<<")"<<endl;
 }
