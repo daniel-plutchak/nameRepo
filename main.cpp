@@ -9,5 +9,5 @@ int main()
 }
 
 void printName(int year){
-    cout<<"Daniel Plutchak ("<<year<<")"<<endl;
+    cout<<"Daniel Anthony Plutchak ("<<year<<")"<<endl;
 }
