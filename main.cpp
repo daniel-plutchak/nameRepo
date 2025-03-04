@@ -4,10 +4,10 @@ using namespace std;
 int main()
 {
     cout<<"GitHub Demo"<<endl;
-    printName();
+    printName(20);
     return 0;
 }
 
-void printName(){
-    cout<<"Daniel Anthony Plutchak"<<endl;
+void printName(int year){
+    cout<<"Daniel Plutchak ("<<year<<")"<<endl;
 }
